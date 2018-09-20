@@ -1,2 +1,2 @@
 # Student-Portal
-This is a student portal system
+This is a repo for student portal system
